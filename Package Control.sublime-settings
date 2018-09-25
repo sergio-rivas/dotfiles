@@ -1,20 +1,20 @@
 {
-	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		"AdvancedNewFile",
-		"All Autocomplete",
-		"ApplySyntax",
-		"BracketHighlighter",
-		"Emmet",
-		"ERB Snippets",
-		"Git",
-		"GitGutter",
-		"JSX",
-		"Package Control",
-		"SCSS"
-	]
+  "installed_packages":
+  [
+    "A File Icon",
+    "AdvancedNewFile",
+    "All Autocomplete",
+    "Babel",
+    "Emmet",
+    "ERB Snippets",
+    "Git",
+    "GitGutter",
+    "Package Control",
+    "SCSS",
+    "Side Bar",
+    "SublimeLinter",
+    "SublimeLinter-rubocop",
+    "Word Count",
+    "Pretty JSON"
+  ]
 }
